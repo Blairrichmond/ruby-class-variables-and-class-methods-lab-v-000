@@ -54,9 +54,7 @@ class Song
         end
 
       end
-
-
-  end
+    end
 artist_count
 end
 
